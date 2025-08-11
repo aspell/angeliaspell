@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "AngeliaSpell.com",
+    "description": "",
+    "home_page_url": "https://aspell.github.io/angeliaspell",
+    "feed_url": "https://aspell.github.io/angeliaspell/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Angelia Spell"
+    },
+    "items": [
+    ]
+}

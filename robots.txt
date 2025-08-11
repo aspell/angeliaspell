@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://aspell.github.io/angeliaspell/sitemap.xml
